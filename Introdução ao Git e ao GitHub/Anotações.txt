@@ -8,4 +8,9 @@ Git status -> para verificar se tem atualizações no local
 git add -A  ou git add .  ---> serve para adicionar no controle de versão local
 
 
-git commit -m " comentar aqui" --> sever para subir para o repositorio do github
+git commit -m " comentar aqui" --> sever preparar para subir para o repositorio do github
+
+depois para enviar mesmo é necessario push
+
+git push origin main
+
